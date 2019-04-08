@@ -1,2 +1,2 @@
 # GM
-Cs
+/storage/emulated/0/Download/GM.phar
